@@ -1,6 +1,6 @@
 # Trabajo Final HTML/CSS
 
-**Autor:** Saúl Hinojosa
+**Autor:** Saúl Hinojosa Velasquez
 
 **Empresa creadora de páginas web**
 
